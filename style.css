@@ -41,6 +41,25 @@ ul {
   gap: 25px;
   width: 500px;
   padding-right: 80px;
-  
-  
+}
+
+.info {
+  display: flex;
+  width: 500px;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #1F2937;
+  padding: 100px 215px;
+}
+
+.text {
+  max-width: 420px;
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+.title_1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
 }
